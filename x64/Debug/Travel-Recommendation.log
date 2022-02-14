@@ -1,0 +1,32 @@
+﻿  intro.c
+C:\Users\heek\source\repos\Travel-Recommendation\intro.c(8,11): warning C4013: 'startline'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\intro.c(9,13): warning C4013: 'middleline1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\intro.c(11,13): warning C4013: 'middleline2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\intro.c(16,9): warning C4013: 'endline'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\intro.c(18,7): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  main.c
+  makingBox.c
+  questionList.c
+C:\Users\heek\source\repos\Travel-Recommendation\questionList.c(26,11): warning C4013: 'startline'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\questionList.c(27,13): warning C4013: 'middleline1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\questionList.c(29,13): warning C4013: 'middleline2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\questionList.c(32,9): warning C4013: 'endline'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\questionList.c(34,7): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  randomGame.c
+C:\Users\heek\source\repos\Travel-Recommendation\randomGame.c(10,11): warning C4013: 'startline'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\randomGame.c(11,13): warning C4013: 'middleline1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\randomGame.c(13,13): warning C4013: 'middleline2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\randomGame.c(22,9): warning C4013: 'endline'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\randomGame.c(25,7): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\randomGame.c(38,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\heek\source\repos\Travel-Recommendation\randomGame.c(169,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  result.c
+C:\Users\heek\source\repos\Travel-Recommendation\result.c(5,11): warning C4013: 'startline'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\result.c(6,13): warning C4013: 'middleline1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\result.c(8,13): warning C4013: 'middleline2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\result.c(36,10): warning C4013: 'endline'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\heek\source\repos\Travel-Recommendation\result.c(181,7): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+C:\Users\heek\source\repos\Travel-Recommendation\result.c(213): warning C4715: 'reply': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\heek\source\repos\Travel-Recommendation\randomGame.c(127): warning C4715: 'randomGame': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Travel-Recommendation.vcxproj -> C:\Users\heek\source\repos\Travel-Recommendation\x64\Debug\Travel-Recommendation.exe

@@ -1,0 +1,2 @@
+C:\Users\heek\Documents\C-projects\Travel-Recommendation\x64\Debug\Travel-Recommendation.exe
+C:\Users\heek\source\repos\Travel-Recommendation\x64\Debug\Travel-Recommendation.exe
